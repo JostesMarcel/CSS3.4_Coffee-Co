@@ -63,7 +63,7 @@ section:nth-of-type(1){
 /* secound page */
 section:nth-of-type(2){
     background: url(../img/beans_icon.png) no-repeat center/cover;
-    height: 50vh;
+    padding: 5%;
 }
 section:nth-of-type(2) article{
     width: 41%;
